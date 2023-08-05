@@ -1,6 +1,5 @@
-# Project Name
+# Mycollege_gpt
 
-Mycollege_gpt
 
 ## Description
 
